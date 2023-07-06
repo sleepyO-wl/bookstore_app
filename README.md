@@ -7,7 +7,7 @@ https://github.com/sleepyO-wl/bookstore_app/assets/122133479/fa9953cf-d82a-4506-
 
 https://github.com/sleepyO-wl/bookstore_app/assets/122133479/d015c103-eefa-4c82-b3e5-23a6874ddcb6
 
--get the [apk()] file 
+- get the [apk](https://github.com/sleepyO-wl/bookstore_app/blob/master/app-release.apk) file 
 
 
 
